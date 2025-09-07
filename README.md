@@ -45,7 +45,7 @@ python image_fetcher.py
 When prompted, enter one or more image URLs, separated by commas.
 Example:
 
-https://www.python.org/static/community_logos/python-logo.png, https://upload.wikimedia.org/wikipedia/commons/9/99/Ubuntu_logo.png
+https://www.python.org/static/community_logos/python-logo.png
 
 
 
